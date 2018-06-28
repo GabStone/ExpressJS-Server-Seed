@@ -10,7 +10,7 @@ NodeJS Server Seed using ExpressJS
 - Winston Logging
 
 
-###Running the Server:
+### Running the Server:
 - `npm install` to install all required dependencies
 - Install MongoDB Community Edition ([instructions](https://docs.mongodb.com/manual/installation/#tutorials)) and run it by executing `mongod`
 - `npm run dev` to start the local server with nodemon
